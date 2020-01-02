@@ -11,19 +11,19 @@ Se trata de una web responsive con 4 apartados, cada uno de ellos pensado para d
 
 ### **Fase 1: prepararse para lo que está por venir**
 
-#### **- Listado de recursos interesantes y gratuitos para empezar a empaparse sobre los contenidos del curso:** HTML, CSS, SASS, Bootstrap, Git, Github, JavaScript, React, Trello, Slack, Markdown, Canva, Marvel, documentación oficial, foros donde encontrar ayuda, etc.
+**- Listado de recursos interesantes y gratuitos para empezar a empaparse sobre los contenidos del curso:** HTML, CSS, SASS, Bootstrap, Git, Github, JavaScript, React, Trello, Slack, Markdown, Canva, Marvel, documentación oficial, foros donde encontrar ayuda, etc.
 
 
 ### **Fase 2: durante el curso**
 
-#### **- El Kahoot barómetro:** en este apartado la alumna podrá introducir el puesto en el que ha quedado en el Kahoot de preguntas del tema del día y ver su evolución en una gráfica y de esta forma ver de forma fácil aquellas lecciones que ha entendido mejor y cuáles necesita repasar.
+**- El Kahoot barómetro:** en este apartado la alumna podrá introducir el puesto en el que ha quedado en el Kahoot de preguntas del tema del día y ver su evolución en una gráfica y de esta forma ver de forma fácil aquellas lecciones que ha entendido mejor y cuáles necesita repasar.
 
-#### **- [El confesionario adalaber:](https://sandrusmb.github.io/El-confesionario-Adalaber/)** un lugar seguro donde quejarse sobre las frustraciones de aprender Javascript por primera vez. A cambio de cada queja, la alumna recibirá un consejo para seguir afrontando con entusiasmo y deportividad esta dura tarea.
+**- [El confesionario adalaber:](https://sandrusmb.github.io/El-confesionario-Adalaber/)** un lugar seguro donde quejarse sobre las frustraciones de aprender Javascript por primera vez. A cambio de cada queja, la alumna recibirá un consejo para seguir afrontando con entusiasmo y deportividad esta dura tarea.
 
 
-### **Fase 3: después de Adalab**
+**Fase 3: después de Adalab**
 
-#### **- El buscador de adalabers por el mundo:** aunque la mayoría de alumnas de Adalab residen en Madrid, muchas de ellas también trabajan en otras muchas ciudades. ¿Qué pasa si alguna adalaber quiere mudarse y contactar con alguna antigua alumna para preguntarle por el panorama IT de la zona? El buscador de adalabers situa a las alumnas en un mapa gracias a la api de Twitter y la localización de su cuenta.
+**- El buscador de adalabers por el mundo:** aunque la mayoría de alumnas de Adalab residen en Madrid, muchas de ellas también trabajan en otras muchas ciudades. ¿Qué pasa si alguna adalaber quiere mudarse y contactar con alguna antigua alumna para preguntarle por el panorama IT de la zona? El buscador de adalabers situa a las alumnas en un mapa gracias a la api de Twitter y la localización de su cuenta.
 
 
 ## Objetivos personales
