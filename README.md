@@ -1,4 +1,4 @@
-# Kit de emergencia Adalaber
+# Kit de emergencia adalaber
 
 ## La idea
 
@@ -9,7 +9,7 @@ Adalab es un bootcamp para aprender programación frontend en 12 semanas desde c
 
 Se trata de una web responsive con 4 apartados, cada uno de ellos pensado para dar soporte en las diferentes etapas del bootcamp: antes, durante y después de Adalab. 
 
-## **Fase 1: prepararse para lo que está por venir**
+### **Fase 1: prepararse para lo que está por venir**
 
 #### **- Listado de recursos interesantes y gratuitos para empezar a empaparse sobre los contenidos del curso:** HTML, CSS, SASS, Bootstrap, Git, Github, JavaScript, React, Trello, Slack, Markdown, Canva, Marvel, documentación oficial, foros donde encontrar ayuda, etc.
 
