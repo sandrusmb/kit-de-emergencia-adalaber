@@ -20,6 +20,8 @@ Se trata de una web responsive con 4 apartados, cada uno de ellos pensado para d
 
 **- El Kahoot barómetro:** en este apartado la alumna podrá introducir el puesto en el que ha quedado en el Kahoot de preguntas del tema del día y ver su evolución en una gráfica y de esta forma ver de forma fácil aquellas lecciones que ha entendido mejor y cuáles necesita repasar.
 
+![kahoot](https://github.com/sandrusmb/kit-de-emergencia-adalaber/blob/master/images/kahoot.png)
+
 **- [El confesionario adalaber:](https://sandrusmb.github.io/El-confesionario-Adalaber/)** un lugar seguro donde quejarse sobre las frustraciones de aprender Javascript por primera vez. A cambio de cada queja, la alumna recibirá un consejo para seguir afrontando con entusiasmo y deportividad esta dura tarea.
 
 ![confesionario](https://github.com/sandrusmb/kit-de-emergencia-adalaber/blob/master/images/confesionario2.png)
