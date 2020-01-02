@@ -11,7 +11,7 @@ Se trata de una web responsive con 4 apartados, cada uno de ellos pensado para d
 
 ### **Fase 1: prepararse para lo que está por venir**
 
-**- Listado de recursos interesantes y gratuitos para empezar a empaparse sobre los contenidos del curso:** HTML, CSS, SASS, Bootstrap, Git, Github, JavaScript, React, Trello, Slack, Markdown, Canva, Marvel, documentación oficial, foros donde encontrar ayuda, etc.
+**- Recursos pre Adalab:** listado de recursos interesantes y gratuitos para empezar a empaparse sobre los contenidos del curso: HTML, CSS, SASS, Bootstrap, Git, Github, JavaScript, React, Trello, Slack, Markdown, Canva, Marvel, documentación oficial, foros donde encontrar ayuda, etc.
 
 
 ### **Fase 2: durante el curso**
@@ -24,6 +24,8 @@ Se trata de una web responsive con 4 apartados, cada uno de ellos pensado para d
 ### **Fase 3: después de Adalab**
 
 **- El buscador de adalabers por el mundo:** aunque la mayoría de alumnas de Adalab residen en Madrid, muchas de ellas también trabajan en otras muchas ciudades. ¿Qué pasa si alguna adalaber quiere mudarse y contactar con alguna antigua alumna para preguntarle por el panorama IT de la zona? El buscador de adalabers situa a las alumnas en un mapa gracias a la api de Twitter y la localización de su cuenta.
+
+![home](https://github.com/sandrusmb/kit-de-emergencia-adalaber/blob/master/images/home.png)
 
 
 ## Objetivos personales
