@@ -11,7 +11,7 @@ Se trata de una web responsive con 4 apartados, cada uno de ellos pensado para d
 
 ### **Fase 1: prepararse para lo que está por venir**
 
-**- Listado de recursos interesantes y gratuitos para empezar a empaparse sobre los contenidos del curso:** HTML, CSS, SASS, Bootstrap, Git, Github, JavaScript, React, Trello, Slack, Markdown, Canva, Marvel, documentación oficial, foros donde encontrar ayuda, etc.
+**- Recursos pre Adalab:** listado de recursos interesantes y gratuitos para empezar a empaparse sobre los contenidos del curso: HTML, CSS, SASS, Bootstrap, Git, Github, JavaScript, React, Trello, Slack, Markdown, Canva, Marvel, documentación oficial, foros donde encontrar ayuda, etc.
 
 
 ### **Fase 2: durante el curso**
