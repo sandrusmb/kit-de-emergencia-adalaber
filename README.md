@@ -2,7 +2,7 @@
 
 ## La idea
 
-Adalab es un bootcamp para aprender programación frontend en 12 semanas desde cero. Esta experiencia, aunque apasionante, también puede ser extremadamente frustrante para muchas alumnas, entre las que me encuentro. Por ello, para aliviar esa presión y ayudar a las adalabers en apuros a liberar tensión, medir sus progresos y buscar apoyo, he creado el kit de emergencia adalaber.
+Adalab es un bootcamp para aprender programación frontend en 12 semanas desde cero. Esta experiencia, aunque apasionante, también puede ser extremadamente estresante (y frustrante) para muchas alumnas, entre las que me encuentro. Por ello, para aliviar esa presión y ayudar a las adalabers en apuros a liberarse, medir sus progresos y buscar apoyo, he creado el kit de emergencia adalaber.
 
 
 ## ¿En qué consiste?
@@ -18,7 +18,7 @@ Se trata de una web responsive con 4 apartados, cada uno de ellos pensado para d
 
 ### **Fase 2: durante el curso**
 
-**- El Kahoot barómetro:** en este apartado la alumna podrá introducir el puesto en el que ha quedado en el Kahoot de preguntas del tema del día y ver su evolución en una gráfica y de esta forma ver de forma fácil aquellas lecciones que ha entendido mejor y cuáles necesita repasar.
+**- El Kahoot barómetro:** en este apartado la alumna podrá introducir el puesto en el que ha quedado en el Kahoot diario y ver su evolución, en un solo vistazo sabrá de forma fácil aquellas lecciones que ha entendido mejor y cuáles necesita repasar.
 
 ![kahoot](https://github.com/sandrusmb/kit-de-emergencia-adalaber/blob/master/images/kahoot.png)
 
@@ -55,15 +55,15 @@ Se trata de una web responsive con 4 apartados, cada uno de ellos pensado para d
 
 ## Proyecto escalable
 
-- Este proyecto consta de funcionalidades totalmente independientes y por ello es flexible al cambio de forma que podrá simplificarse o hacerse más grande según las necesidades. Otras futuras mejoras serían:
+Este proyecto consta de funcionalidades totalmente independientes y por ello es flexible al cambio de forma que podrá simplificarse o hacerse más grande según las necesidades. Otras futuras mejoras serían:
 
-**- Al mal tiempo, buena música:** las mejores listas de reproducción para programar.
+- **Al mal tiempo, buena música:** las mejores listas de reproducción para programar.
 
-**- El apuntador de cañas:** un lugar donde ir reflejando qué se toma cada una en las salidas de cañas y pagar en consecuencia. También es gestor de botes. 
+- **El apuntador de cañas:** un lugar donde ir reflejando qué se toma cada una en las salidas de cañas y pagar en consecuencia. También es gestor de botes. 
 
-**- Diario de una adalaber:** un lugar donde recoger las vivencias de estas 12 semanas de estrés non stop. 
+- **Diario de una adalaber:** un lugar donde recoger las vivencias de estas 12 semanas de estrés non stop. 
 
-**- Canal de Youtube privado con los vídeos de los profes:** coger los vídeos de los ejercicios realizados en clase, editarlos para hacerlos más cortos y directos y añadir apuntes sobreescritos para mejorar su consumo. 
+- **Canal de Youtube privado con los vídeos de los profes:** coger los vídeos de los ejercicios realizados en clase, editarlos para hacerlos más cortos y directos y añadir apuntes sobreescritos para mejorar su consumo. 
 
 
 En resumen, que ninguna adalaber se quede atrás ni se sienta sola nunca más. ¡Gracias!
