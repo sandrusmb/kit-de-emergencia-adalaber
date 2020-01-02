@@ -22,7 +22,7 @@ Se trata de una web responsive con 4 apartados, cada uno de ellos pensado para d
 
 **- [El confesionario adalaber:](https://sandrusmb.github.io/El-confesionario-Adalaber/)** un lugar seguro donde quejarse sobre las frustraciones de aprender Javascript por primera vez. A cambio de cada queja, la alumna recibirá un consejo para seguir afrontando con entusiasmo y deportividad esta dura tarea.
 
-https://github.com/sandrusmb/kit-de-emergencia-adalaber/blob/master/images/confesionario2.png
+![confesionario](https://github.com/sandrusmb/kit-de-emergencia-adalaber/blob/master/images/confesionario2.png)
 
 
 ### **Fase 3: después de Adalab**
