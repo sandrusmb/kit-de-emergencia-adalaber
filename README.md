@@ -23,7 +23,7 @@ Se trata de una web responsive con 4 apartados, cada uno de ellos pensado para d
 
 ### **Fase 3: después de Adalab**
 
-### **- El buscador de adalabers por el mundo:** aunque la mayoría de alumnas de Adalab residen en Madrid, muchas de ellas también trabajan en otras muchas ciudades. ¿Qué pasa si alguna adalaber quiere mudarse y contactar con alguna antigua alumna para preguntarle por el panorama IT de la zona? El buscador de adalabers situa a las alumnas en un mapa gracias a la api de Twitter y la localización de su cuenta.
+#### **- El buscador de adalabers por el mundo:** aunque la mayoría de alumnas de Adalab residen en Madrid, muchas de ellas también trabajan en otras muchas ciudades. ¿Qué pasa si alguna adalaber quiere mudarse y contactar con alguna antigua alumna para preguntarle por el panorama IT de la zona? El buscador de adalabers situa a las alumnas en un mapa gracias a la api de Twitter y la localización de su cuenta.
 
 
 ## Objetivos personales
